@@ -105,47 +105,47 @@
     "/assets/NeueMachina-Bold-395a30fe.woff2"
   ],
   "src/components/about/AboutTeam.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/AboutView-f2719590.js"
+    "/assets/AboutView-667974a2.js"
   ],
   "src/components/about/AboutView.vue": [
-    "/assets/AboutView-f2719590.js"
+    "/assets/AboutView-667974a2.js"
   ],
   "src/components/about/AboutView.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/AboutView-f2719590.js"
+    "/assets/AboutView-667974a2.js"
   ],
   "src/components/about/team.json": [
-    "/assets/AboutView-f2719590.js"
+    "/assets/AboutView-667974a2.js"
   ],
   "src/components/dash/DashGet.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/DashView-59e6f7da.js",
+    "/assets/DashView-b4b33a5f.js",
     "/assets/DashView-599b97a9.css"
   ],
   "src/components/dash/DashSubscription.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/DashView-59e6f7da.js",
+    "/assets/DashView-b4b33a5f.js",
     "/assets/DashView-599b97a9.css"
   ],
   "src/components/dash/DashView.vue": [
-    "/assets/DashView-59e6f7da.js",
+    "/assets/DashView-b4b33a5f.js",
     "/assets/DashView-599b97a9.css"
   ],
   "src/components/dash/DashView.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/DashView-59e6f7da.js",
+    "/assets/DashView-b4b33a5f.js",
     "/assets/DashView-599b97a9.css"
   ],
   "src/components/dash/InputEmail.vue": [
-    "/assets/DashView-59e6f7da.js",
+    "/assets/DashView-b4b33a5f.js",
     "/assets/DashView-599b97a9.css"
   ],
   "src/components/dash/InputEmail.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/DashView-59e6f7da.js",
+    "/assets/DashView-b4b33a5f.js",
     "/assets/DashView-599b97a9.css"
   ],
   "src/components/dash/InputEmail.vue?vue&type=style&index=0&scoped=3e2762f7&lang.css": [
-    "/assets/DashView-59e6f7da.js",
+    "/assets/DashView-b4b33a5f.js",
     "/assets/DashView-599b97a9.css"
   ],
   "src/components/dash/stores.json": [
-    "/assets/DashView-59e6f7da.js",
+    "/assets/DashView-b4b33a5f.js",
     "/assets/DashView-599b97a9.css"
   ],
   "src/components/footer/SiteAddress.vue?vue&type=script&setup=true&lang.ts": [
@@ -204,58 +204,58 @@
     "/assets/NeueMachina-Bold-395a30fe.woff2"
   ],
   "src/components/home/HomeView.vue": [
-    "/assets/HomeView-6f615849.js",
+    "/assets/HomeView-14fb698f.js",
     "/assets/HomeView-c1bd6f2c.css"
   ],
   "src/components/home/HomeView.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/HomeView-6f615849.js",
+    "/assets/HomeView-14fb698f.js",
     "/assets/HomeView-c1bd6f2c.css"
   ],
   "src/components/home/HomeView.vue?vue&type=style&index=0&scoped=cf42445e&lang.css": [
-    "/assets/HomeView-6f615849.js",
+    "/assets/HomeView-14fb698f.js",
     "/assets/HomeView-c1bd6f2c.css"
   ],
   "src/components/post/PostAuthorItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PostMeta.vue_vue_type_script_setup_true_lang-12ad7299.js"
+    "/assets/PostMeta.vue_vue_type_script_setup_true_lang-84566fa6.js"
   ],
   "src/components/post/PostMeta.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PostMeta.vue_vue_type_script_setup_true_lang-12ad7299.js"
+    "/assets/PostMeta.vue_vue_type_script_setup_true_lang-84566fa6.js"
   ],
   "src/components/post/PostView.vue": [
-    "/assets/PostView-923d8f30.js"
+    "/assets/PostView-fcc8af25.js"
   ],
   "src/components/post/PostView.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PostView-923d8f30.js"
+    "/assets/PostView-fcc8af25.js"
   ],
   "src/components/section/SectionItem.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/SectionItem.vue_vue_type_script_setup_true_lang-283d7189.js",
+    "/assets/SectionItem.vue_vue_type_script_setup_true_lang-9d0aa32f.js",
     "/assets/SectionItem-9e83d095.css"
   ],
   "src/components/section/SectionView.vue": [
-    "/assets/SectionView-980356bf.js"
+    "/assets/SectionView-28ccf30e.js"
   ],
   "src/components/section/SectionView.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/SectionView-980356bf.js"
+    "/assets/SectionView-28ccf30e.js"
   ],
   "src/components/shared/BasePicture.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/BasePicture.vue_vue_type_script_setup_true_lang-7b84e2ab.js"
+    "/assets/BasePicture.vue_vue_type_script_setup_true_lang-1e982252.js"
   ],
   "src/components/shared/BaseVideo.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PostView-923d8f30.js"
+    "/assets/PostView-fcc8af25.js"
   ],
   "src/components/shared/ColumnContainer.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/BasePicture.vue_vue_type_script_setup_true_lang-7b84e2ab.js"
+    "/assets/BasePicture.vue_vue_type_script_setup_true_lang-1e982252.js"
   ],
   "src/components/shared/LinkFigure.vue": [
-    "/assets/SectionItem.vue_vue_type_script_setup_true_lang-283d7189.js",
+    "/assets/SectionItem.vue_vue_type_script_setup_true_lang-9d0aa32f.js",
     "/assets/SectionItem-9e83d095.css"
   ],
   "src/components/shared/LinkFigure.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/SectionItem.vue_vue_type_script_setup_true_lang-283d7189.js",
+    "/assets/SectionItem.vue_vue_type_script_setup_true_lang-9d0aa32f.js",
     "/assets/SectionItem-9e83d095.css"
   ],
   "src/components/shared/LinkFigure.vue?vue&type=style&index=0&scoped=7db2c7f2&lang.css": [
-    "/assets/SectionItem.vue_vue_type_script_setup_true_lang-283d7189.js",
+    "/assets/SectionItem.vue_vue_type_script_setup_true_lang-9d0aa32f.js",
     "/assets/SectionItem-9e83d095.css"
   ],
   "src/components/special/NotFound.vue?vue&type=script&setup=true&lang.ts": [
@@ -269,10 +269,10 @@
     "/assets/NeueMachina-Bold-395a30fe.woff2"
   ],
   "src/components/special/SubscriptionFeedback.vue": [
-    "/assets/SubscriptionFeedback-782743a1.js"
+    "/assets/SubscriptionFeedback-10516d0e.js"
   ],
   "src/components/special/SubscriptionFeedback.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/SubscriptionFeedback-782743a1.js"
+    "/assets/SubscriptionFeedback-10516d0e.js"
   ],
   "src/data.json": [
     "/assets/shuffle-unofficial.dark-cd7fbca5.svg",
